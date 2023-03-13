@@ -4,7 +4,7 @@
 
 1. 安装 bucket
 ```powershell
-scoop bucket add <bucke_tname> https://github.com/caixiaomao/scoop-bucket
+scoop bucket add <bucket_name> https://github.com/caixiaomao/scoop-bucket
 ```
 
 2. 更新 bucket
